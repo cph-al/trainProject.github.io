@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Train Project</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div id="btnholder">
+        <button id="startTrain" class="button" disabled></button>
+        <button id="stopTrain" class="back" disabled></button>
+        <button id="tTrainInfo" class="info">STATION INFO</button>
+    </div>
+    <div id="container">
+        <div id="TrainOne"></div>
+        <div id="TrainTwo"></div> 
+        <div id="map">
+            <div id="stations"></div>
+        </div>
+        <div id="TrainInfo" class="hide">
+            <div id="border">
+            <p>STATION INFORMATION</p>
+            <div><span id="welcome"></span></div>
+            <hr>
+            <span id="sInfo">STATION INFO</span>
+            <hr>
+            <div><span id="sInfo">Here you will find:</span></div>
+            <div><span></span>Toilet: <span id="sToilet" class="info"></span></div>
+            <div><span></span>Ticket: <span id="sTicket" class="info"></span></div>
+            <div><span></span>Shops: <span id="sShop" class="info"></span></div>
+            <hr>
+            <div><span>Hourly Departures and Arrivals:</span>
+                <div><span>Nærum -> Jægersborg</span></div>
+                <div><span id="hourlydepartures"></span></div>
+                <div><span>Jægersborg -> Nærum</span></div>
+                <div><span id="hourlydeparturesTwo"></span></div>
+            </div>
+        </div>
+        
+    </div>
+    
+
+</body>
+<script type="module" src="main.js"></script>
+</html>

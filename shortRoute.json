@@ -1,0 +1,10 @@
+[
+    {"ID":"7","Name": "Jægersborg","Shortened":"JÆ","Location": {"y": "150","x": "750"},"Facilities": {"Toilet": "No","Ticketmaster": "Yes","Shop": "No"}, "been":"No"},
+    {"ID":"7","Name": "Nørgaardsvej","Shortened":"NØ","Location": {"y": "150","x": "650"},"Facilities": {"Toilet": "No","Ticketmaster": "Yes","Shop": "No"}, "been":"No"},
+    {"ID":"6","Name": "Lyngby Lokal","Shortened":"LL","Location": {"y": "150","x": "550"},"Facilities": {"Toilet": "No","Ticketmaster": "Yes","Shop": "No"}, "been":"No"},
+    {"ID":"5","Name": "Fuglevad","Shortened":"FU", "Location": {"y":"150", "x":"450"}, "Facilities":{"Toilet":"No","Ticketmaster":"No","Shop":"No"}, "been":"No"},
+    {"ID":"4","Name": "Brede","Shortened":"BR", "Location": {"y":"150", "x":"350"}, "Facilities":{"Toilet":"Yes","Ticketmaster":"Yes","Shop":"Yes"}, "been":"No"}, 
+    {"ID":"3","Name": "Ørholm","Shortened":"ØR","Location": {"y": "150","x": "250"},"Facilities": {"Toilet": "Yes","Ticketmaster": "Yes","Shop": "No"}, "been":"No"},
+    {"ID":"2","Name": "Ravnholm","Shortened":"RA","Location": {"y": "150","x": "150"},"Facilities": {"Toilet": "Yes","Ticketmaster": "No","Shop": "Yes"}, "been":"No"},
+    {"ID":"1","Name": "Nærum","Shortened": "NÆ","Location": {"y": "150","x": "50"},"Facilities": {"Toilet": "Yes","Ticketmaster": "Yes", "Shop": "Yes"}, "been":"No"}
+]
